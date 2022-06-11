@@ -1,2 +1,5 @@
 node_modules
 dist
+yarn-error.log
+src/users/users.service.spec.ts
+src/users/users.controller.spec.ts
